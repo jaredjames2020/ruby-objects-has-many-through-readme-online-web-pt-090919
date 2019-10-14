@@ -1,6 +1,5 @@
 class Meal
   
-  
   @@all = []
   
   def initialize(waiter, customer, total=0, tip=0)
