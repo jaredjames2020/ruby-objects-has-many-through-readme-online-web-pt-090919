@@ -8,7 +8,7 @@ class Customer
     @@all << self
   end
   
-  def self.age
+  def self.all
     @@all
   end
   
